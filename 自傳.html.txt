@@ -1,0 +1,19 @@
+<html>
+ <head>
+  <title>自傳</title>
+ </head>
+ <body>
+我是小胖，今天紫外線很強ㄟ!!
+</body>
+</html>
+
+學歷：<br>
+高雄高商<br>
+</div>
+<div style="；background-image：url('2.jpg')；width：40%">
+幹部：
+風紀股長<br>
+街文社社員<br>
+</div>
+</body>
+</html>
